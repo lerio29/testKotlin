@@ -1,0 +1,6 @@
+codeStyle/codeStyleId=KOTLIN_OFFICIAL
+codeStyle/globalsOverridden=true
+eclipse.preferences.version=1
+globalsOverridden=true
+jdkHome=/opt/jdk1.8.0_144
+jvmTarget=JVM_1_8
